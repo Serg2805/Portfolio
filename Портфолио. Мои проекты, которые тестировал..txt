@@ -1,0 +1,27 @@
+﻿Портфолио. Учебные проекты, которые тестировал. 
+
+
+1.Тестирование веб приложения Яндекс Маршруты только по макетам. 
+Требования к проекту: https://docs.google.com/document/d/1IbB8jWlo-uMsOaIG3wg8oNGjbCUZM9Pgr57O4I7iW5g/edit
+
+
+Моя работа:
+https://docs.google.com/document/d/1UF15MB4GbnSVdbHY_KSshRLplMyehHwxdcZoNVFfn3k/edit?usp=drivesdk
+
+
+2. Тестирование веб приложения Яндекс Маршруты по верстке. 
+Требования к проекту:
+https://docs.google.com/document/d/10BCY05YMiRzWhsOcJtKsRuHHky59aD6kaRCgFBKfKuw/edit
+
+
+Моя работа:
+https://docs.google.com/document/d/1a9aHJlAWf0TNW70e9Ei5swyhVKfsfl8arr5InakJFr4/edit
+
+
+3. Тестирование мобильного приложения Яндекс Метро и API учебного сервиса Яндекс Прилавок.
+Требование к проекту:
+https://docs.google.com/document/d/1RCEOHQ-7pXAkIiFEcLkdv_prs6tOKZK7_b2fkjHUA68/edit
+
+
+Моя работа:
+https://docs.google.com/document/d/1fUqKxbXeuj-n5JkHouJ6ifRsteE5IvVqUcDFKst8kLc/edit
